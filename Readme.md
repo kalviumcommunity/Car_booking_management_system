@@ -1,4 +1,4 @@
-# car-bboking-system
+# car-boking-system
 
 A simple project idea where we can apply the mentioned concepts in DBMS is a Car Booking management system.
 
